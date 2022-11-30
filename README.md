@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, My name is Felix Doura</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend and Backend developer from Buenos Aires, Argentina. I am currently looking forward for new opportunities, I love this lifestyle and working with computers.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
