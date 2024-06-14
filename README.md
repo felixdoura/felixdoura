@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, My name is Felix Doura</h1>
-<h3 align="center">A passionate fullstack and videogame developer from Buenos Aires, Argentina</h3>
-<h3 align="center">I can speak fluent English, Spanish and Italian.<h3>
+<h1>Hello 👋, My name is Felix Doura</h1>
+<h3>Buenos Aires, Argentina</h3>
+<h3>I can speak fluent English, Spanish and Italian.<h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
