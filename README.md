@@ -3,7 +3,7 @@
 # Félix Doura
 ### Fullstack Developer · Game Developer · Tech Lead
 
-*Building products people play and use — from 0 to production.*
+*Building products people play and use.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-felixdoura-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felixdoura/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-felixdoura.github.io-black?style=flat&logo=github)](https://felixdoura.github.io/)
@@ -16,10 +16,10 @@
 
 ## 👾 About me
 
-I'm a developer with a dual focus: I build **web applications** end-to-end and create **video games** that actually ship. Based in Buenos Aires 🇦🇷, I work at the intersection of software engineering, interactive experiences, and technical leadership.
+I'm a technology excecutive with dual focus: Building **web applications** and **video games** plus bridging strategic leadership. Based in Buenos Aires 🇦🇷, I work at the intersection of software engineering, interactive experiences, and high-impact solutions.
 
-- 🎮 Game development with **Unity** (C#) and **Unreal Engine** (C++)
-- 🌐 Fullstack web with **React / Next.js / Vue** + **Node.js / .NET / Python**
+- 🎮 Videogame development with experience in **Unity** (C#) and **Unreal Engine** (C++)
+- 🌐 Fullstack web programming with experience in **JavaScript / Python / Node.js** + **React / Vue.js / Next.js** + **Express.js / Flask**
 - 🧭 Tech lead experience: architecture decisions, team mentoring, and delivery ownership
 - 🤝 I enjoy sharing knowledge, reviewing code, and raising the bar of the teams I join
 
@@ -30,23 +30,27 @@ I'm a developer with a dual focus: I build **web applications** end-to-end and c
 **Game Dev**
 `Unity` `Unreal Engine` `C#` `C++`
 
-**Frontend**
-`React` `Next.js` `Vue.js` `TypeScript` `Tailwind CSS` `SASS`
+**Programming Languages**
+`JavaScript` `Node.js` `Python`
 
-**Backend**
-`Node.js` `Express` `.NET` `Python` `Flask`
+**Frontend Frameworks & Libraries**
+`React` `Next.js` `Vue.js`
+
+**Backend Stack**
+`Node.js` `Express` `Flask`
 
 **Databases**
 `MySQL` `MariaDB` `MongoDB`
 
 **Tools & Design**
-`Git` `Postman` `Figma`
+`Git` `Postman` `Figma` `Draw.io`
 
 ---
 
 ## 📌 Featured Projects
 
-> *(Highlight 2–3 repos here con una línea de descripción de cada uno — ver nota abajo)*
+> *Currently working on my final project at one of the subjects at University of Belgrano*
+> https://github.com/felixdoura/museum-card-collector
 
 ---
 
