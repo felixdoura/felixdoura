@@ -1,7 +1,7 @@
 <div align="center">
 
-# Félix Doura
-### Fullstack Developer · Game Developer · Tech Lead
+# Felix Doura
+### Tech Lead | Software Developer | C.P.O.
 
 *Building products people play and use.*
 
